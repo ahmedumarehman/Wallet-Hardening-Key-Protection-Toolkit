@@ -1,0 +1,4 @@
+--rpc-auth admin:password123
+--rpc
+--rpcaddr=127.0.0.1
+--rpcport=8545

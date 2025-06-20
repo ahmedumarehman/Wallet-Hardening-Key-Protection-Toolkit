@@ -1,0 +1,26 @@
+{
+    "address": "008aee95fdbb3e468dc20c9dd6e5a56cbe89eac7",
+    "crypto": {
+        "cipher": "aes-128-ctr",
+        "cipherparams": {
+            "iv": "83dbcc02d8ccb40e466191a123791e0e"
+        },
+        "ciphertext": "d172a74ec1f7a8be342b5f38f084f4e59a46e3e3ebed98d4d4e25215a9f6a620",
+        "kdf": "scrypt",
+        "kdfparams": {
+            "dklen": 32,
+            "n": 262144,
+            "r": 8,
+            "p": 1,
+            "salt": "ab0c8f3d54e5792c77cf276b2b96e8471d2e2d7ff62f3ae1a67f6c3582a4fd2b"
+        },
+        "mac": "2103ac29915cddf6cd3a9eb5c1275cde7c56b55d61b2ac253804163150a89c10"
+    },
+    "id": "1a2bc3de-456f-7890-abcd-ef1234567890",
+    "version": 3,
+    "simulation": {
+        "real_address": "0x742d35Cc6634C0532925a3b844Bc454e4438f44e",
+        "real_100%_address": "0x5eD011Bd1234567890abcdef1234567890ABCDEF",
+        "note": "Used for testing clipboard hijack detection."
+    }
+}
